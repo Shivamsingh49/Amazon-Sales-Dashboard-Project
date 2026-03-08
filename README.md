@@ -1,4 +1,4 @@
-**Overview**
+**Overview**:
 This project is a Power BI dashboard created using Amazon sales data to analyze sales performance, profit, quantity sold, and shipping costs across different markets, countries, and product categories.
 
 **Tools Used**
