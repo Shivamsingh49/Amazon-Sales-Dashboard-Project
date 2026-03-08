@@ -14,5 +14,5 @@ This project is a Power BI dashboard created using Amazon sales data to analyze 
 - Sales by Ship Mode
 - Interactive filters for Category and Market
 
-**Key Insight**
+**Key Insight**:
 The dashboard helps identify top-performing markets, categories, and cities, enabling better understanding of sales trends.
